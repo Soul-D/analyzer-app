@@ -1,0 +1,4 @@
+thresholds:
+  maxErrorLogsPerDay: 100
+  memoryUsagePercent: 80
+  cpuUsagePercent: 75
